@@ -7,4 +7,9 @@ An algorithm that helps detect athletes number plates and recognize them
 4. Recognizing received character sets
 
 ##Technologies that have been applied
-* 'OpenCV' for detecting  face, profile of face and athlete's  body, selection of estimated number plate areas, segmentation and grouping characters areas
+* `OpenCV` for detecting  face, profile of face and athlete's  body, selection of estimated number plate areas, segmentation and grouping characters areas
+* `Stroke Width Transform` and `Tesseract` to find the area that contains characters
+* `Custom CNN` for character recognition
+
+## Demonstration of the developed algorithm
+![](gif.gif)
